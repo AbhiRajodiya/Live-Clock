@@ -19,3 +19,4 @@ function setRotation(element, rotationRatio) {
 }
 
 setClock()
+
